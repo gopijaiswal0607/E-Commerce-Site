@@ -1,4 +1,4 @@
 # E-Commerce-Site
-An e-commerce site contain two apps shop and blog Using Django .
-full functional with payment gateway and tracker of items.
+An e-commerce site contain two part shop and blog Using Django .
+Full functional with payment gateway and tracker of items.
 
